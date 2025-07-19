@@ -56,13 +56,13 @@
 
   - **Activities/Tasks Completed:**
 - Text to speech [Click here]
-- Speech to Speech
+- Speech to Speech []
 
   ## Day 8
 
   -**Learnded Topics:**
   -Supervised Learning & OPENAI
-  --Fine Tuninn Dataset spl
+  --Fine Tuning 
 
 
 
